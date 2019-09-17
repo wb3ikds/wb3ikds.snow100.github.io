@@ -15,6 +15,19 @@
 <!-- Schedule -->
 <div class="schedule-wrapper clear animated fadeIn visible" data-animation="fadeIn" data-animation-delay="200">
 <div class="schedule-tabs lv1">
+<div>
+    <h1>Pre-Season Development</h1>
+    <ul>
+    <li>Tuesday, 9.17.19 Topic: Operations by Ella Bess</li>
+    <li>Tuesday, 9.24.19 Topic: Operations II by Ella Bess</li>
+    <li>Tuesday, 9.24.19 Event: StartUp Day Philadelphia at the Pennovation Center, 8:30 AM to 6:00 PM</li>
+    <li>Event Details:</li>
+    <li>Date: Tuesday, 9.24.19</li>
+    <li>Time: 8:30 am - 6:00 pm</li>
+    <li>Location: Pennovation Center</li>
+    <li>Registration Page: https://startupdayphiladelphia.splashthat.com/</li>
+    </ul>
+    </div>
 <ul id="tabs-lv1" class="nav nav-justified">
     <li class=""><a href="#tab-first" data-toggle="tab" aria-expanded="false">
     <strong>
