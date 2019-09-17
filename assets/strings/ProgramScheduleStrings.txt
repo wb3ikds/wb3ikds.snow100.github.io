@@ -1,0 +1,397 @@
+<section class="page-section" id="schedule">
+<div class="container">
+<div class="row">
+<div class="col-md-8 pull-left">
+<h1 class="section-title">
+    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner animated flipInY visible"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
+    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner animated fadeInRight visible">Program Schedule <small>/ Program Schedule</small></span>
+</h1>
+</div>
+<div class="col-md-4 text-right-md pull-right">
+<a href="#" class="btn btn-theme btn-theme-lg btn-theme-transparent-grey pull-right animated flipInY visible" data-animation="flipInY" data-animation-delay="300"><i class="fa fa-print"></i> Download Schedule</a>
+</div>
+</div>
+
+<!-- Schedule -->
+<div class="schedule-wrapper clear animated fadeIn visible" data-animation="fadeIn" data-animation-delay="200">
+<div class="schedule-tabs lv1">
+<ul id="tabs-lv1" class="nav nav-justified">
+    <li class=""><a href="#tab-first" data-toggle="tab" aria-expanded="false">
+    <strong>
+        Week 1 - Business Assessment Review by Michelle Snow
+    </strong> 
+    <br>
+            10/01/19
+        </a>
+    </li>
+    <li class="">
+        <a href="#tab-second" data-toggle="tab" aria-expanded="false">
+        <strong>
+            Week 2 - Field Visit "Investor Pitch Coaching"
+        </strong> 
+        <br>
+            10/02/19
+       </a>
+    </li>
+    <li class="">
+        <a href="#tab-third" data-toggle="tab" aria-expanded="false">
+        <strong>
+            Week 3 - No Coaching due to Med Week Activities
+        </strong> 
+        <br>
+            10/08/19
+        </a>
+    </li>
+    <li class="">
+        <a href="#tab-fourth" data-toggle="tab" aria-expanded="false">
+            <strong>
+                Week 4 - Business Assets, TBS
+            </strong> 
+            <br>
+                10/15/19
+        </a>
+    </li>
+    <li class="">
+    <a href="#tab-fifth" data-toggle="tab" aria-expanded="false">
+        <strong>
+            Week 5 - Business Assets, TBS
+        </strong> 
+            <br>
+                10/22/19
+        </a>
+    </li>                                    
+  <li class="active">
+    <a href="#tab-last" data-toggle="tab" aria-expanded="true">
+        <strong>
+            Week 6 - Business Assets, TBS
+        </strong>
+            <br>
+                10/29/19
+            </a>
+  </li>
+</ul>
+</div>
+<div class="tab-content lv1">
+<!-- tab1 -->
+<div id="tab-first" class="tab-pane fade">
+    <div class="schedule-tabs lv2">
+        <ul id="tabs-lv21" class="nav nav-justified">
+            <li class="active"><a href="#tab-lv21-first" data-toggle="tab" aria-expanded="false">Session A</a></li>
+
+        </ul>
+    </div>
+    <div class="tab-content lv2">
+        <div id="tab-lv21-first" class="tab-pane fade in active">
+            <div class="timeline">
+
+                <article class="post-wrap animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="300">
+                    <div class="media">
+                        <!-- -->
+                        <div class="post-media pull-left">
+                            <img src="assets/img/preview/training-avatar.png" alt="" class="media-object">
+                        </div>
+                        <!-- -->
+                        <div class="media-body">
+                            <div class="post-header">
+                                <div class="post-meta">
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> 7:30pm - 8:30pm</span>
+                                    <a href="#" class="pull-right">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                            <i class="fa fa-stack-1x fa-share-alt"></i>
+                                        </span>
+                                    </a>
+                                </div>
+                                <h2 class="post-title"><a href="#">Customized Training</a></h2>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Our program begins with a week of custom designed training for your team based on our needs analysis of you and your staff. This week of focused, individualized training will ensure each team member is prepared for success.</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-readmore">
+                                    <i class="fa fa-microphone"></i> <strong></strong><a href<="" a="">
+                                </a></span><a href<="" a="">
+                            </a></div><a href<="" a="">
+                        </a></div><a href<="" a="">
+                        <!-- -->
+                    </a></div><a href<="" a="">
+                </a></article><a href<="" a="">
+
+                
+
+            </a></div><a href<="" a="">
+        </a></div><a href<="" a="">
+    </a></div><a href<="" a="">
+</a></div><a href<="" a="">
+<!-- tab2 -->
+</a><div id="tab-second" class="tab-pane fade"><a href<="" a="">
+    </a><div class="schedule-tabs lv2"><a href<="" a="">
+        </a><ul id="tabs-lv22" class="nav nav-justified"><a href<="" a="">
+            </a><li class="active"><a href<="" a=""></a><a href="#tab-lv22-first" data-toggle="tab" aria-expanded="false">Session A</a></li>
+            
+        </ul>
+    </div>
+    <div class="tab-content lv2">
+        <div id="tab-lv22-first" class="tab-pane fade in active">
+            <div class="timeline">
+
+                <article class="post-wrap">
+                    <div class="media">
+                        <!-- -->
+                        <div class="post-media pull-left">
+                            <img src="assets/img/preview/partner-avatar.png" alt="" class="media-object">
+                        </div>
+                        <!-- -->
+                        <div class="media-body">
+                            <div class="post-header">
+                                <div class="post-meta">
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> 7:30pm - 8:30pm</span>
+                                    <a href="#" class="pull-right">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                            <i class="fa fa-stack-1x fa-share-alt"></i>
+                                        </span>
+                                    </a>
+                                </div>
+
+                                <h2 class="post-title"><a href="#">Strategic Partnerships</a></h2>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Michelle Snow and other business leaders will teach you how to develop strategic partnerships with other businesses and organizations that compliment your mission and focus, as well as how to find mentors within your field.</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-readmore">
+                                    <i class="fa fa-microphone"></i> <strong></strong><a href<="" a="">
+                                </a></span><a href<="" a="">
+                            </a></div><a href<="" a="">
+                        </a></div><a href<="" a="">
+                        <!-- -->
+                    </a></div><a href<="" a="">
+                </a></article><a href<="" a="">
+
+                
+
+            </a></div><a href<="" a="">
+        </a></div><a href<="" a="">
+    </a></div><a href<="" a="">
+</a></div><a href<="" a="">
+
+<!-- tab3 -->
+</a><div id="tab-third" class="tab-pane fade"><a href<="" a="">
+    </a><div class="schedule-tabs lv2"><a href<="" a="">
+        </a><ul id="tabs-lv23" class="nav nav-justified"><a href<="" a="">
+            </a><li class="active"><a href<="" a=""></a><a href="#tab-lv23-first" data-toggle="tab" aria-expanded="false">Session A</a></li>
+            
+        </ul>
+    </div>
+    <div class="tab-content lv2">
+        <div id="tab-lv23-first" class="tab-pane fade in active">
+            <div class="timeline">
+
+                <article class="post-wrap">
+                    <div class="media">
+                        <!-- -->
+                        <div class="post-media pull-left">
+                            <img src="assets/img/preview/documents-avatar.png" alt="" class="media-object">
+                        </div>
+                        <!-- -->
+                        <div class="media-body">
+                            <div class="post-header">
+                                <div class="post-meta">
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> 7:30pm - 8:30pm</span>
+                                    <a href="#" class="pull-right">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                            <i class="fa fa-stack-1x fa-share-alt"></i>
+                                        </span>
+                                    </a>
+                                </div>
+                                <h2 class="post-title"><a href="#">Documentation &amp; Protection</a></h2>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Discover how to protect your business or organization from legal and ethical woes through thorough, accurate, and systematic documentation that keeps both customers and employees properly informed of their rights and responsibilities.</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-readmore">
+                                    <i class="fa fa-microphone"></i> <strong></strong><a href<="" a="">
+                                </a></span><a href<="" a="">
+                            </a></div><a href<="" a="">
+                        </a></div><a href<="" a="">
+                        <!-- -->
+                    </a></div><a href<="" a="">
+                </a></article><a href<="" a="">
+
+                
+
+            </a></div></div><a href<="" a="">
+    </a></div><a href<="" a="">
+</a></div><a href<="" a="">
+<!-- tab4 -->
+</a><div id="tab-fourth" class="tab-pane fade"><a href<="" a="">
+    </a><div class="schedule-tabs lv2"><a href<="" a="">
+        </a><ul id="tabs-lv24" class="nav nav-justified"><a href<="" a="">
+            </a><li class="active"><a href<="" a=""></a><a href="#tab-lv24-first" data-toggle="tab" aria-expanded="false">Session A</a></li>
+            
+        </ul>
+    </div>
+    <div class="tab-content lv2">
+        <div id="tab-lv24-first" class="tab-pane fade in active">
+            <div class="timeline">
+
+                <article class="post-wrap">
+                    <div class="media">
+                        <!-- -->
+                        <div class="post-media pull-left">
+                            <img src="assets/img/preview/growth-avatar.png" alt="" class="media-object">
+                        </div>
+                        <!-- -->
+                        <div class="media-body">
+                            <div class="post-header">
+                                <div class="post-meta">
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> 7:30pm - 8:30pm</span>
+                                    <a href="#" class="pull-right">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                            <i class="fa fa-stack-1x fa-share-alt"></i>
+                                        </span>
+                                    </a>
+                                </div>
+                                <h2 class="post-title"><a href="#">Growth Assessment</a></h2>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>You and your team will learn exactly what it will take from each department and staff member to contribute to positive business growth. We show you how to direct energies to efforts that will actually move the needle.</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-readmore">
+                                    <i class="fa fa-microphone"></i> <strong></strong><a href<="" a="">
+                                    
+                                </a></span><a href<="" a="">
+                            </a></div><a href<="" a="">
+                        </a></div><a href<="" a="">
+                        <!-- -->
+                    </a></div><a href<="" a="">
+                </a></article><a href<="" a="">
+                                
+
+            </a></div></div><a href<="" a="">
+    </a></div><a href<="" a="">
+</a></div><a href<="" a="">
+<!-- tab5 -->
+</a><div id="tab-fifth" class="tab-pane fade"><a href<="" a="">
+    </a><div class="schedule-tabs lv2"><a href<="" a="">
+        </a><ul id="tabs-lv25" class="nav nav-justified"><a href<="" a="">
+            </a><li class="active"><a href<="" a=""></a><a href="#tab-lv25-first" data-toggle="tab" aria-expanded="false">Session A</a></li>
+            
+        </ul>
+    </div>
+    <div class="tab-content lv2">
+        <div id="tab-lv25-first" class="tab-pane fade in active">
+            <div class="timeline">
+
+                <article class="post-wrap">
+                    <div class="media">
+                        <!-- -->
+                        <div class="post-media pull-left">
+                            <img src="assets/img/preview/finance-avatar.png" alt="" class="media-object">
+                        </div>
+                        <!-- -->
+                        <div class="media-body">
+                            <div class="post-header">
+                                <div class="post-meta">
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> 7:30pm - 8:30pm</span>
+                                    <a href="#" class="pull-right">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                            <i class="fa fa-stack-1x fa-share-alt"></i>
+                                        </span>
+                                    </a>
+                                </div>
+                                <h2 class="post-title"><a href="#">Financial Planning</a></h2>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Learn what software and tools are right for your business or organizational financial planning and how to use them, as well as gain access to financial professionals who can help you understand your planning needs.</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-readmore">
+                                    <i class="fa fa-microphone"></i> <strong></strong><a href<="" a="">
+                                    
+                                </a></span><a href<="" a="">
+                            </a></div><a href<="" a="">
+                        </a></div><a href<="" a="">
+                        <!-- -->
+                    </a></div><a href<="" a="">
+                </a></article><a href<="" a="">
+
+            </a></div></div><a href<="" a="">
+    </a></div><a href<="" a="">
+</a></div><a href<="" a="">
+
+<!-- tab6 -->
+</a><div id="tab-last" class="tab-pane fade active in"><a href<="" a="">
+    </a><div class="schedule-tabs lv2"><a href<="" a="">
+        </a><ul id="tabs-lv26" class="nav nav-justified"><a href<="" a="">
+            </a><li class="active"><a href<="" a=""></a><a href="#tab-lv26-first" data-toggle="tab" aria-expanded="true">Session A</a></li>
+        </ul>
+    </div>
+    <div class="tab-content lv2">
+        <div id="tab-lv26-first" class="tab-pane fade in active">
+            <div class="timeline">
+
+                <article class="post-wrap">
+                    <div class="media">
+                        <!-- -->
+                        <div class="post-media pull-left">
+                            <img src="assets/img/preview/leverage-avatar.png" alt="" class="media-object">
+                        </div>
+                        <!-- -->
+                        <div class="media-body">
+                            <div class="post-header">
+                                <div class="post-meta">
+                                    <span class="post-date"><i class="fa fa-clock-o"></i> 7:30pm - 8:30pm</span>
+                                    <a href="#" class="pull-right">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                            <i class="fa fa-stack-1x fa-share-alt"></i>
+                                        </span>
+                                    </a>
+                                </div>
+                                <h2 class="post-title"><a href="#">Leveraging Technology</a></h2>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Current and relevant business technology is paramount to your success; get personalized assistance for you and your staff to ensure everyone is up to speed and ready for growth.
+</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-readmore">
+                                    <i class="fa fa-microphone"></i> <strong></strong><a href<="" a="">
+                                    
+                                </a></span><a href<="" a="">
+                            </a></div><a href<="" a="">
+                        </a></div><a href<="" a="">
+                        <!-- -->
+                    </a></div><a href<="" a="">
+                </a></article><a href<="" a="">
+
+
+            </a></div><a href<="" a="">
+        </a></div><a href<="" a="">
+    </a></div><a href<="" a="">
+</a></div><a href<="" a="">
+</a></div><a href<="" a="">
+</a></div><a href<="" a="">
+<!-- /Schedule -->
+
+</a></div><a href<="" a="">
+</a></section>
